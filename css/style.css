@@ -1,0 +1,31 @@
+
+.title {
+  width: 800px;
+  align: center;
+}
+
+ul {
+  position: relative;
+  text-align: left;
+  width: 800px;
+}
+
+h3 {
+  align: center;
+  width: 800px;
+}
+
+.TextWrapBottom {
+  border: 5px solid #fcf9f4;
+  border-radius: 10px 10px 10px 10px;
+  width: auto;
+  height: auto;
+  width: 800px;
+  
+}
+
+
+p {
+  margin-left: 80px;
+  margin-right: 80px; 
+}
